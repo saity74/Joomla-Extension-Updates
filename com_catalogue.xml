@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name>Обновление 2.0.1 для компонента каталога</name>
+        <description>Тестируем обновление с гита</description>
+        <element>com_catalogue</element>
+        <type>component</type>
+        <version>2.0.1</version>
+        <infourl title="com_catalogue">https://github.com/saity74/com_catalogue</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/saity74/com_catalogue/archive/dev.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>dev</tag>
+        </tags>
+
+        <maintainer>Saity 74, LLC</maintainer>
+        <maintainerurl>https://github.com/saity74</maintainerurl>
+        <section>Testing</section>
+        <targetplatform name="joomla" version="3.4" />
+    </update>
+</updates>
