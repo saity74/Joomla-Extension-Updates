@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
     <update>
-        <name>Обновление 2.1.0 для компонента каталога</name>
-        <description>Тестируем обновление с гита</description>
+        <name>Обновление 2.1.1 для компонента каталога</name>
+        <description>Новое обновление</description>
         <element>com_catalogue</element>
         <type>component</type>
         <version>2.1.0</version>
